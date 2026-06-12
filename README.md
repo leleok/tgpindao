@@ -26,7 +26,7 @@
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量 |
 | **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航 💰 推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
 | **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 → [币圈导航](https://www.0xnav.com) |
-| **币安交易所**    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
+| **币安交易所**    |   [https://www.binance.com](https://www.bsmkweb.cc/activity/referral-entry/CPA?ref=CPA_00KTHBMVKM)   |币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
 | **欧易交易所**    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   | 邀请码：**50253981**，欧易交易所(减免30%手续费)OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
 | **搜索群①** | [@sousuo20w](https://t.me/sousuo20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
 | **搜索群②** | [@jiso5173](https://t.me/jiso5173) | 搜索任意资源(加群要过人机校验，防止刷子) |
