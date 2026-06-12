@@ -5,7 +5,7 @@
 <div align="center">
 【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
  ❗️严禁中国大陆用户使用，请遵守当地法律法规，一切产生的法律问题，均与本项目无关❗️<br>
- <a>Telegram中文频道:</a> <a href="https://t.me/tgcn_wiki">@tgcn_wiki</a>  <a>官方网站:</a> <a href="https://www.tg10000.com">https://www.tg10000.com</a>  <a>中文讨论群:</a> <a href="https://t.me/tgcn_chat">@tgcn_chat</a><br>
+  <a>官方网站:</a> <a href="https://www.tghub.io">https://www.www.tghub.io</a> 
   ❗️国内用户(包括台湾省)电报名字最好使用<strong>中文</strong>，由于协议号泛滥，<strong>英文和拼音</strong>名字容易被风控封号❗️<br><br>
 </div>
 
@@ -16,40 +16,26 @@
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| **新币搜索** | [@xbso](https://t.me/xbso1?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
-| **SOSO 机器人** | [@soso](https://t.me/sosoo?start=a_528066107) | 关键词搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
-| **搜啦** | [@soula](https://t.me/soula?start=a_7202424896) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源 |
-| **极搜 JiSou** | [@jisou](https://t.me/jisou2?start=a_7202424896) | 搜索群、频道、影视、音乐、新闻等内容 |
-| **神马搜索（签到送 USDT）** | [@smss](https://t.me/smss?start=spread_7202424896) | 搜索群组资源，每日签到，连续 7 天送 3 USDT |
-| 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源     |
-| **快搜** | [@kuai](https://t.me/kuai?start=a_3B44YPB) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
-| **🚀 免费节点** | [vpnnav.github.io](https://vpnnav.github.io) | 每天整点更新高速节点 |
-| **🚀 机场推荐** | [@jichangtuijian](https://github.com/vpnnav/jichangtuijian) | 2026年最新低价高速机场推荐、机场大全、VPN导航、机场导航 |
+| **新币搜索** | [@xbso](https://t.me/xbso?start=a_1443407213) | 搜索群、频道、影视、音乐、新闻等内容 |
+| **SOSO 机器人** | [@soso](https://t.me/souso?start=a_1443407213) | 关键词搜索群组/频道/视频，带 “SOSO” 后缀可赚取 0.5 USDT |
+| **搜啦** | [@soula](https://t.me/soula?start=a_1443407213) | 可以轻松搜索Telegram群组、频道，以及视频、音乐等各种资源 |
+| **极搜 JiSou** | [@jisou](https://t.me/jisou2?start=a_1443407213) | 搜索群、频道、影视、音乐、新闻等内容 |
+| **神马搜索（签到送 USDT）** | [@smss](https://t.me/smss?start=spread_1443407213) | 搜索群组资源，每日签到，连续 7 天送 3 USDT |
+| 超级索引  | [@CJSY](https://t.me/CJSY?start=1443407213)                  | 发送词语即可搜索关联群组与频道资源     |
+| **快搜** | [@kuai](https://t.me/kuai?start=a_NVD87W) | 帮你发现有趣群组、频道、视频、音乐、电影、新闻 |
 | 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量 |
 | **币圈学习资料** | [awesome-crypto](https://github.com/itgoyo/awesome-crypto) | 币圈学习导航 💰 推荐注册 [币安](https://accounts.binance.com/zh-CN/register?ref=896983517) 或 [欧易](https://www.chouyi.pro/zh-hans/join/50253981) 交易所 |
 | **加密货币交流群** | [@jmhbgroup](https://t.me/jmhbgroup) | 加密货币交流 → [币圈导航](https://www.0xnav.com) |
 | **币安交易所**    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
 | **欧易交易所**    |   [https://www.okx.com](https://www.okx.com/zh-hans/join/50253981)   | 邀请码：**50253981**，欧易交易所(减免30%手续费)OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
-| ⚡️能量闪租     |       **`TGuXv6H1s84cmQZk7akvWHC6P789999999`**      | 🟩1笔USDT转帐能量: 3TRX </br> 🟨2笔USDT转帐能量: 6TRX |
-| ⚡️TRX闪兑     |       **`TY4etzSftahyH5DYDMq5kDuPs93VVVVVVV`**      | TRX-USDT24小时自动兑换，1U起兑 |
-| ⚡️能量机器人   | [@trxsosobot](https://t.me/trxsosobot)            | 电报导航、能量闪兑、能量租赁、地址监听、ID查询、实时U价、自助开通电报会员(全网最便宜)   |
-| **💎 电报会员机器人** | [@tg2vipbot](https://t.me/tg2vipbot)或[@vip2tgbot](https://t.me/vip2tgbot) | 自助开通 Telegram 会员，支持 USDT/微信/支付宝，1 秒克隆同款机器人打造被动收入,支持闪对、会员星星 → [通知群](https://t.me/nenglianghuiyuan) |
-| **💎 手动充值会员** | [https://faka.tg10000.com](https://faka.tg10000.com) | 手动开通会员（109–259 元），支持交易所红包支付 → [通知群](https://t.me/tgviptongzhi) |
-| **🌈 彩虹群发器** | [购买链接](https://faka.tg10000.com/item/15#buy) |多账号管理·一键群发·自动加群·用户采集·智能炒群·适合推广|
-| **免费频道搬运机器人** | [@xnby08bot](https://t.me/xnby08bot) | 频道搬运、备份、模仿 → [教程](https://www.youtube.com/watch?v=rV6vIMFTAPA) · 支持自定义广告按钮 [通知群](https://t.me/xiunvyewu)|
 | **搜索群①** | [@sousuo20w](https://t.me/sousuo20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
 | **搜索群②** | [@jiso5173](https://t.me/jiso5173) | 搜索任意资源(加群要过人机校验，防止刷子) |
 | **搜索群③** | [@jisoubar](https://t.me/jisoubar) | “极搜吧”，支持资源搜索(加群要过人机校验，防止刷子) |
 | **搜索群④** | [@sepiansousuo](https://t.me/sepiansousuo) | 搜索任意资源(加群要过人机校验，防止刷子) |
 | **搜索群⑤** | [@kuaisou20w](https://t.me/kuaisou20w) | 搜索任意资源(加群要过人机校验，防止刷子) |
-| 👚AI换装机器人   | [@Xai1314bot](https://t.me/Xai1314bot?start=NJOTH8D6MF7PYIL8)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
 | **🍉 吃瓜无限** | [@chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网最新热门瓜 |
 | **东南亚大全** | [@dongnanyadaquan](https://t.me/dongnanyadaquan) | 实时分享东南亚相关资讯 |
 | **🎥阿里云高清视频** | [@aliyungaoqingshipin](https://t.me/aliyungaoqingshipin) | 阿里云盘分享交流频道，每个人在这里都可以找到和分享自己的资源 |
-| **科技第一线** | [@kejidiyixian](https://t.me/kejidiyixian) | 第一时间分享全网最热门科技新闻 |
-| 群组频道上粉丝人数 | [https://faka.tg10000.com](https://faka.tg10000.com) | 会掉落1000人/¥10，永久不掉落1000人/¥25 [业务通知频道](https://t.me/xiunvyewu) |
-| **Telegram涨粉业务** | [https://faka.tg10000.com](https://faka.tg10000.com) |[电报哥](https://www.youtube.com/@tgxiunv)的店铺，全网最低价出售各种电报相关的业务，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.okx.com/zh-hans/join/50253981)等交易所红包，无手续费[@tgxiunv](https://t.me/tgxiunv)|
-| **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 专注于三大运营商免费流量卡的推广，所有产品均由运营商严格审核，品质有保障。热销19元192G流量卡，频道:[@tgsim172](https://t.me/tgsim172) |
 
 <a id="曝光不良频道"></a>
 ### 曝光不良频道，请勿轻信(Expose harmful channels. Do not trust.)
@@ -65,23 +51,6 @@
 | 临时情侣 | [https://t.me/+k4EkWp6n6_c4YzJk](https://t.me/+k4EkWp6n6_c4YzJk)|  骗子(Scammer)    |
 | 心动时刻 | [https://t.me/+ztiIRQ64r_ZmNzA8](https://t.me/+ztiIRQ64r_ZmNzA8)|  骗子(Scammer)    |
 
-<a id="推广"></a>
-### 推广 
-
->50U/月，其他导航站点广告位
-
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|运营商大数据                             | [@jsdsj1](https://t.me/jsdsj1)          | 指定网站抓取，指定APP抓取，股票数据，贷款数据，助贷数据   |
-|debot                             | [@debot](https://debot.ai?ref=240523)          | 实时自动检测各个聪明人钱包的买入和卖出情况   |
-|gmgn.ai|[gmgn.ai](https://gmgn.ai/r/L2wVVjGF)| 注于meme币追踪与交易辅助 的平台，通过“聪明资金”监控、链上数据分析、复制交易和风险提示等功能帮助用户发掘潜力币种|
-| hyperbot.network | [@hyperbot.network](https://hyperbot.network?ic=0xf6E03ed6740fBCF3255F07FD1758824D1eA32a15) | 由 AI 驱动的链上合约交易平台，聚合多个永续 DEX 的数据与执行，提供“鲸鱼追踪＋一键跟单”功能 |
-|奈飞小铺                             | [https://ihezu.fans](https://ihezu.fans/uqhwcn)          | 网飞、Spotify、Apple Music、油管、微软365合租，专属9折优惠码：FANXIAN   |
-|环球巴士                             | [https://universalbus.cn](https://universalbus.cn/?s=2aKuBEBSZB)          | Netflix、ChatGPT、Gemini、油管、Grok，专属9折优惠码：FANXIAN   |
-|方舟Coding Plan                             | [https://volcengine.com](https://volcengine.com/L/-BM38uBifyU)          | 8.9元/月聚合了好几个国产模型 Doubao、GLM、DeepSeek、Kimi   |
-|Agent-Skills|[https://github.com/itgoyo/awesome-agent-skills](https://github.com/itgoyo/awesome-agent-skills)|收集全网最热门的Agent-Skills项目|
-| **📱 全网最全低价流量卡** | [0元自助申请入口](https://h5.lot-ml.com/ProductEn/Index/5d4a5a4cfae41cab) | 我们提供最新的电信、移动、联通和广电流量卡及物联卡的在线申请和办理服务，热销19元192G流量卡 |
-|不用赴港申请Wise香港账户 | [https://wise.com](https://wise.com/invite/dic/xfp7e3v) |可选择免费 Wise 借记卡或免手续费汇款机会 |
 
 <!-- NAV_START -->
 # **导航：** 
@@ -89,38 +58,6 @@
 [搜索机器人](#搜索机器人) | [曝光不良频道](#曝光不良频道) | [推广](#推广) | [机场节点推荐](#机场节点推荐) | [交易所/USDT/空投](#交易所) | [机器人搭建](#机器人搭建) | [iOS限制群教程](#ios限制群教程) | [安全隐私](#安全隐私) | [中文语言](#中文语言) | [+86验证码](#86验证码) | [Telegram API](#telegram-api) | [Telegram钱包/虚拟信用卡](#telegram钱包) | [常用机器人](#常用机器人) | [金融相关](#金融相关) | [社群](#社群) | [京豆](#京豆) | [翻墙](#翻墙) | [软件](#软件) | [播客](#播客) | [Telegram](#telegram) | [频道](#频道) | [媒体](#媒体) | [官方认证 Bot](#官方认证-bot) | [社交媒体](#社交媒体) | [电报群](#电报群)
 <!-- NAV_END -->
 
-<a id="机场节点推荐"></a>
-### 机场节点推荐
-| 名字        |                                  链接                                 | 功能描述                                          |
-| :-------- | :-----------------------------------------------------------------: | :-------------------------------------------- |
-| 赔钱机场      |       [官网](https://xn--mes358aby2apfg.com/register?code=ZiP66w57)      | 全网最便宜机场，18块1000G不限时流量、2块钱月付 |
-| 闪连VPN      |       [官网](https://lightningxvpn.com/download?inviteCode=55151480)      | VPN首选！提供安全、稳定和快速的网络连接 |
-| 一元机场      |       [官网](https://xn--4gq62f52gdss.top/#/register?code=YS37AHYZ)      | 一元一个月，要啥自行车 |
-| 狗狗加速      |       [官网](https://go.dginv.click/#/register?code=ZyMzTvB7)      | 集群负载均衡，不限速，无审计，高速专线，Hysteria2协议，解锁流媒体及ChatGPT |
-| River VPN |    [官网](https://dash.hbwqf.com/#/register?code=wJBT57t1)    | 全解锁全球视频网站、ChatGPT、Telegram、YouTube            |
-| FlyBit    |       [官网](https://www.52fb.xyz/#/register?code=PCRCZ7uE)      | 月付10起，100GB/月，设备不限，解锁流媒体和ChatGPT，支持SS协议       |
-| SuperBiu  |        [官网](https://biubiux.online/#/register?code=A2Qhd5vz)        | ￥9/月，50GB流量，IPLC传输，支持流媒体/GPT，限大陆个人使用          |
-| 老猫云       |        [官网](https://laomao.biz?path=register&code=JGCKGHWa)       | Trojan协议+IEPL专线，最高1000Mbps，50+节点              |
-| 放心云       |      [官网](https://web1.wowfxy.com/#/register?code=Z0i3YPhk)      | 1000Mbps不限速，全解锁流媒体，3天免费试用                     |
-| 易连VPN     |         [官网](https://easylink.bar/register?code=1oqy2e26)         | 永久无限流量，1000Mbps不限速，解锁流媒体与ChatGPT，3天试用         |
-| 起帆        |         [官网](https://www.qf1.us/#/register?code=ziz13huH)         | 首家支持Hysteria协议，高速8K视频，解锁ChatGPT和流媒体           |
-| Tomcat    |        [官网](https://teacat.cloud/#/register?code=wcln0rZa)        | 12元50GB，性价比选择                                 |
-| 飞兔云       |   [官网](https://xn--9kq10e0y7h.site/index.html?register=eA38wttl)  | 60+国家节点，全中转，高速稳定，解锁流媒体和ChatGPT                |
-| 淘气兔       |     [官网](https://www.taoqitu.me/index.html?register=1ab3e6wq)     | 全中转线路，4K秒开，解锁流媒体/ChatGPT                      |
-| FreeCloud |           [官网](https://asus.im/#/register?code=gzE3PgDa)          | 按流量计费不限时，解锁流媒体                                |
-| FSCloud   |      [官网](https://dash.996cloud.top/#/register?code=14lShPOs)     | 1元100G，超高性价比                                  |
-| 烤肠云       |     [官网](https://reborn.kaochang.ltd/#/register?code=WE8qrNPG)    | 1元2G测试套餐                                      |
-| M78星云     |        [官网](https://m78star.cloud/#/register?code=MLBEu8Zi)       | 高端IEPL/IPLC线路，赠送Emby，解锁流媒体与ChatGPT            |
-| OKCLOUD机场 |        [官网](https://okokcloud.top/#/register?code=vZRXNDss)       | 稳定高速SS/SSR节点，7天试用，解锁Netflix/HBO等              |
-| 魔戒        |         [官网](https://mojie.info/#/register?code=vv0sB50W)         | 性价比高，Trojan和Vmess协议，流量包不限时                    |
-| 尼尔云       |        [官网](https://niercloud.com/#/register?code=rmfG8Tfl)       | ¥15/月，115GB流量                                 |
-| 青云梯机场     |     [官网](https://qytaffcc01.qytaff.pro/register?aff=3kRr38Lo)     | 支持解锁Netflix、Disney+、ChatGPT，覆盖多国节点            |
-| 飞天猪       |  [官网](https://ftzaffcom01.fliggyaff.xyz/#/register?code=33L67N5N) | Trojan协议，IEPL专线，3000Mbps，支持流媒体/ChatGPT        |
-| v2lnk     |  [官网](https://ftzaffcom01.fliggyaff.xyz/#/register?code=33L67N5N) | 免费试用，一键连接，解锁GPT                               |
-| NiceDuck  |        [官网](https://my.niceduck.io/register?code=b5QXpg3C)        | 高SLA，支持流媒体/ChatGPT，赠送3家Emby资源                 |
-| Hostbrr   |        [官网](https://my.hostbrr.com/order/forms/a/NDc5NA==)        | 大硬盘存储VPS，Hetzner德国机房                          |
-| BuyVM     |        [官网](https://my.hostbrr.com/order/forms/a/NDc5NA==)        | 高性价比VPS，机房覆盖卢森堡/美国多个城市                        |
-| RackBerd  |           [官网](https://my.racknerd.com/aff.php?aff=6211)          | VPS主机，7个美国机房可选，成立于2019年                       |
 
 <a id="交易所"></a>
 ### 交易所提币或者是购买USDT、币圈撸空投
@@ -1883,6 +1820,7 @@ I am requesting for removal of account limitations.
 *   [Hot Or Bot](https://t.me/hotorbot) Like others and let others like you.
 *   [GetMediaBot](https://getmediabot/) Get any media file from any where…
 *   [NoSticker](https://t.me/nosticker_bot) 自动删除群里的 Stickers
+*   [海外数字货币招商](https://ydt518.com) 海外数字货币招商网
 *   [SpamMeNotBot](https://t.me/SpamMeNotBot) 保护您的组免受垃圾邮件 / 攻击
 *   [socks5_bot](https://t.me/socks5_bot) 免费获得 Socks5 代理
 *   [MahoNato_bot](https://t.me/MahoNato_bot) 森近真帆
@@ -1895,12 +1833,14 @@ I am requesting for removal of account limitations.
 *   [my_ali_bot](https://t.me/my_ali_bot) 用来在 AliExpress 上购物
 *   [TrustedSleepBot](https://t.me/TrustedSleepBot) 可信睡眠机器人
 *   [ddoc_bot](https://t.me/ddoc_bot) DDOS 攻击器
+*   [007出海](https://007ch.net) 007出海官网
 *   [storebot](https://t.me/storebot) 机器人商店，索引了各种机器人，可以寻找自己感兴趣的
 *   [tchannelsbot](https://t.me/tchannelsbot) 索引了很多 Channel, 可以寻找自己感兴趣的 Channel
 *   [CostflowCryptoBot](https://t.me/CostflowCryptoBot) Cryptocurrencies
 *   [CostflowCurrencyBot](https://t.me/CostflowCurrencyBot) Real world currency rates/convention
 *   [stockprice_bot](https://t.me/stockprice_bot) 中文股票机器人，A 股 / 美股 / 港股
 *   [LotteryBot](https://t.me/LotteryBot) 一个比特币抽奖的机器人
+*   [青龙出海](https://qlch.net) 青龙出海
 *   [todobot](https://t.me/todobot) To do list manager
 *   [rJailbreakBot](https://t.me/rJailbreakBot) Jailbreak Bot
 *   [iqdb_org_bot](https://t.me/iqdb_org_bot) IQDB Bot
@@ -1916,6 +1856,7 @@ I am requesting for removal of account limitations.
 *   [jidubot](https://t.me/jidubot) 嫉妒 Bot
 *   [favorite_stickers_bot](https://t.me/favorite_stickers_bot) 贴纸包 Bot
 *   [PLGameBot](https://t.me/PLGameBot) 在线游戏的机器人
+*   [海外商城招商](https://t.me/btczhaoshang) 海外商城招商-海外商城代理
 *   [Cctv365bot](https://t.me/Cctv365bot) 电影搜索
 *   [Telegram Bot List](https://github.com/goq/telegram-list/blob/master/bots.md)
 *   [Telegram Bot List](https://github.com/eternnoir/pyTelegramBotAPI#bots-using-this-api)
